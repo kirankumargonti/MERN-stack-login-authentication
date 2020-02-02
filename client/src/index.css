@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Bebas+Neue|Oswald&display=swap');
+:root {
+    --Oswald: 'Oswald', sans-serif;
+    --Bebas: 'Bebas Neue', cursive;
+}
+* {
+    box-sizing: border-box;
+    scroll-behavior: smooth !important;
+}
+
+html {
+    overflow-x: hidden !important;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    overflow-x: hidden !important;
+    width: 100%;
+    height: 100%;
+}

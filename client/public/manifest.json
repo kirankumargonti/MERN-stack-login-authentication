@@ -1,0 +1,8 @@
+{
+  "short_name": "Login Authentication",
+  "name": "Login Authentication using MERN Stack",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

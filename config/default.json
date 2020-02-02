@@ -1,0 +1,4 @@
+{
+    "mongoURI": "Your mongoURI",
+    "secretOrKey": "secret"
+}
